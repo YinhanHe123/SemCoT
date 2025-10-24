@@ -1,0 +1,1202 @@
+[
+  {
+    "query": "Winter is almost here and most animals are migrating to warmer countries. There are 41 bird families living near the mountain. If 35 bird families flew away to asia and 62 bird families flew away to africa How many more bird families flew away to africa than those that flew away to asia?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 62.0 - 35.0 )\n####27",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 62.0 - 35.0 )",
+    "answer": "27"
+  },
+  {
+    "query": "Paige raised 7 goldfish and 12 catfish in the pond but stray cats loved eating them. Now she has 15 left. How many fishes disappeared?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 7.0 + 12.0 ) - 15.0 )\n####4",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 7.0 + 12.0 ) - 15.0 )",
+    "answer": "4"
+  },
+  {
+    "query": "Marco and his dad went strawberry picking. Together they collected strawberries that weighed 22 pounds. On the way back Marco ' dad found 30 more pounds of strawberries. Marco's strawberries now weighed 36 pounds. How much did his dad's strawberries weigh now?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 22.0 - 36.0 ) + 30.0 )\n####16",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 22.0 - 36.0 ) + 30.0 )",
+    "answer": "16"
+  },
+  {
+    "query": "Debby bought 200 water bottles and 256 soda bottles when they were on sale. If she drank 312 water bottles and 4 soda bottles a day How many days would the soda bottles last?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 256.0 / 4.0 )\n####64",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 256.0 / 4.0 )",
+    "answer": "64"
+  },
+  {
+    "query": "There were 106 dollars in Olivia's wallet. After she visited a supermarket and a showroom there were 26 dollars left. If she spent 49 dollars at the showroom How much did she spend at the supermarket?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 106.0 - 26.0 ) - 49.0 )\n####31",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 106.0 - 26.0 ) - 49.0 )",
+    "answer": "31"
+  },
+  {
+    "query": "Faye was placing her pencils and crayons into 30 rows with 71 crayons and 24 pencils in each row. How many pencils does she have?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 30.0 * 24.0 )\n####720",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 30.0 * 24.0 )",
+    "answer": "720"
+  },
+  {
+    "query": "Ed had 10 more marbles than Doug. Doug lost 11 of his marbles at the playground. If Ed had 45 marbles How many more marbles did Ed have than Doug then?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 10.0 + 11.0 )\n####21",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 10.0 + 11.0 )",
+    "answer": "21"
+  },
+  {
+    "query": "26 children were riding on the bus. At the bus stop 38 more children got on the bus. How many children are on the bus now?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 26.0 + 38.0 )\n####64",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 26.0 + 38.0 )",
+    "answer": "64"
+  },
+  {
+    "query": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 31 cookies yesterday 270 cookies this morning and 419 cookies the day before yesterday. How many cookies did Helen bake till last night?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 31.0 + 419.0 )\n####450",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 31.0 + 419.0 )",
+    "answer": "450"
+  },
+  {
+    "query": "He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day and that each sack containes 25 oranges. How many oranges will they have after 87 days of harvest?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( ( 66.0 * 87.0 ) * 25.0 )\n####143550",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( ( 66.0 * 87.0 ) * 25.0 )",
+    "answer": "143550"
+  },
+  {
+    "query": "An industrial machine made 9 shirts yesterday and 44 shirts today. It can make 3 shirts a minute. How many minutes did the machine work yesterday?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 9.0 / 3.0 )\n####3",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 9.0 / 3.0 )",
+    "answer": "3"
+  },
+  {
+    "query": "Bryan took a look at his books and magazines. If he has 9 books and 46 magazines in each of his 10 bookshelves How many magazines does he have in total?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 46.0 * 10.0 )\n####460",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 46.0 * 10.0 )",
+    "answer": "460"
+  },
+  {
+    "query": "Dave had 17 apps on his phone. After adding some he had 18 left. How many apps did he add?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 18.0 - 17.0 )\n####1",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 18.0 - 17.0 )",
+    "answer": "1"
+  },
+  {
+    "query": "Dan has $ 4. He bought a candy bar for $ 7 and a chocolate for $ 6. How much money did he spend buying the candy bar and chocolate?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 7.0 + 6.0 )\n####13",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 7.0 + 6.0 )",
+    "answer": "13"
+  },
+  {
+    "query": "The bananas in Philip's collection are organized into 196 groups. If there are a total of 392 bananas in Philip's banana collection How big is each group?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 392.0 / 196.0 )\n####2",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 392.0 / 196.0 )",
+    "answer": "2"
+  },
+  {
+    "query": "The cave is 1218 feet deep and they are already at 849 feet. If they are travelling at speed of 17 How much farther until they reach the end of the cave?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 1218.0 - 849.0 )\n####369",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 1218.0 - 849.0 )",
+    "answer": "369"
+  },
+  {
+    "query": "The Ferris wheel in paradise park has 4 seats. If 20 people can ride the wheel at the same time How many people can each seat hold?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 20.0 / 4.0 )\n####5",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 20.0 / 4.0 )",
+    "answer": "5"
+  },
+  {
+    "query": "A farmer had 177 tomatoes and 12 potatoes in his garden. If he picked 53 tomatoes How many tomatoes and potatoes does he have left?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 177.0 + 12.0 ) - 53.0 )\n####136",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 177.0 + 12.0 ) - 53.0 )",
+    "answer": "136"
+  },
+  {
+    "query": "Danny collects bottle caps. He lost 66 bottle caps at the park. Now he has 25 bottle caps in his collection. How many bottle caps did danny have at first?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 66.0 + 25.0 )\n####91",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 66.0 + 25.0 )",
+    "answer": "91"
+  },
+  {
+    "query": "Jack received 4 emails in the morning, 5 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the afternoon and evening?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 5.0 + 8.0 )\n####13",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 5.0 + 8.0 )",
+    "answer": "13"
+  },
+  {
+    "query": "Paco had 22 sweet cookies and 75 salty cookies. He ate 15 sweet cookies and 54 salty cookies. How many sweet cookies did Paco have left?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 22.0 - 15.0 )\n####7",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 22.0 - 15.0 )",
+    "answer": "7"
+  },
+  {
+    "query": "The ring toss game at the carnival made the same amount of money each day. In total in 5 days they earned 165 dollars. How much did they make per day?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 165.0 / 5.0 )\n####33",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 165.0 / 5.0 )",
+    "answer": "33"
+  },
+  {
+    "query": "Dave had 24 files and 13 apps on his phone. After deleting some apps and files he had 17 apps and 21 files left. How many files did he delete?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 24.0 - 21.0 )\n####3",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 24.0 - 21.0 )",
+    "answer": "3"
+  },
+  {
+    "query": "In a school there are 569 girls and 236 boys. How many more girls than boys does the school have?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 569.0 - 236.0 )\n####333",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 569.0 - 236.0 )",
+    "answer": "333"
+  },
+  {
+    "query": "Rebecca wants to split a collection of eggs into groups of 11. If each group has 2 eggs How many eggs does Rebecca have?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 11.0 * 2.0 )\n####22",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 11.0 * 2.0 )",
+    "answer": "22"
+  },
+  {
+    "query": "Mary is baking a cake. The recipe calls for 7 cups of sugar and 10 cups of flour. She already put in 4 cups of sugar. How many more cups of sugar does she need to add?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 7.0 - 4.0 )\n####3",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 7.0 - 4.0 )",
+    "answer": "3"
+  },
+  {
+    "query": "Dave had 21 apps on his phone. He added 89 new apps. After deleting some he had 24 left. How many more apps did he add than he deleted?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 24.0 - 21.0 )\n####3",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 24.0 - 21.0 )",
+    "answer": "3"
+  },
+  {
+    "query": "During summer break 202958 kids from Lawrence county go to camp and the other 777622 kids stay home. How many more kids stayed home compared to those who went to the camp?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 777622.0 - 202958.0 )\n####574664",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 777622.0 - 202958.0 )",
+    "answer": "574664"
+  },
+  {
+    "query": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 13 inches. The grasshopper jumped 2 inches farther than the grasshopper. How far did the frog jump?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 13.0 - 2.0 )\n####11",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 13.0 - 2.0 )",
+    "answer": "11"
+  },
+  {
+    "query": "Allan brought 3 balloons and 20 balls while Jake brought 5 balloons and 59 balls to the park. How many balloons did Allan and Jake have in the park?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 3.0 + 5.0 )\n####8",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 3.0 + 5.0 )",
+    "answer": "8"
+  },
+  {
+    "query": "He then went to see the oranges being harvested. He found out that they harvest 8 sacks per day. How many days will it take to harvest 24 sacks of oranges?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 24.0 / 8.0 )\n####3",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 24.0 / 8.0 )",
+    "answer": "3"
+  },
+  {
+    "query": "Every day Ryan spends 6 hours on learning english and 5 hours on learning chinese. If he learns for 2 days How many hours does he spend on learning english in all?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 6.0 * 2.0 )\n####12",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 6.0 * 2.0 )",
+    "answer": "12"
+  },
+  {
+    "query": "Baker made 144 cakes. He sold 71 of them. Then he made 111 more cakes. How many more cakes did baker make than those he sold?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 144.0 + 111.0 ) - 71.0 )\n####184",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 144.0 + 111.0 ) - 71.0 )",
+    "answer": "184"
+  },
+  {
+    "query": "There were 12 people on the bus. At the next stop 4 more people got on the bus. Each bus can not have more than 36 people. How many people are there on the bus now?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 12.0 + 4.0 )\n####16",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 12.0 + 4.0 )",
+    "answer": "16"
+  },
+  {
+    "query": "Allan brought 5 balloons and Jake brought 6 balloons to the park. Jake then bought 3 more balloons at the park. How many balloons did Jake bring to the park?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 6.0 + 3.0 )\n####9",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 6.0 + 3.0 )",
+    "answer": "9"
+  },
+  {
+    "query": "An industrial machine worked for 5 minutes. It can make 4 shirts a minute. How many shirts did machine make?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 4.0 * 5.0 )\n####20",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 4.0 * 5.0 )",
+    "answer": "20"
+  },
+  {
+    "query": "Paco had 9 sweet cookies and 6 salty cookies. He ate 36 sweet cookies and 3 salty cookies. How many salty cookies did Paco have left?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 6.0 - 3.0 )\n####3",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 6.0 - 3.0 )",
+    "answer": "3"
+  },
+  {
+    "query": "A book has 3 chapters. The first chapter is 66 pages long the second chapter is 35 pages long and the third chapter is 24 pages long. How many pages does the book have altogether?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 66.0 + 35.0 ) + 24.0 )\n####125",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 66.0 + 35.0 ) + 24.0 )",
+    "answer": "125"
+  },
+  {
+    "query": "Some children were riding on the bus. At the bus stop 2 more children got on the bus. Then there were 41 children altogether on the bus. How many children were riding on the bus before the bus stop?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 41.0 - 2.0 )\n####39",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 41.0 - 2.0 )",
+    "answer": "39"
+  },
+  {
+    "query": "Rebecca wants to split a collection of eggs into 3 groups. Rebecca has 4 marbles and 15 eggs. How many eggs will each group have?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 15.0 / 3.0 )\n####5",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 15.0 / 3.0 )",
+    "answer": "5"
+  },
+  {
+    "query": "After finding some bottle caps at the park danny has 32 bottle caps in his collection. If he had 25 bottle caps in his collection earlier How many bottle caps did he find at the park?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 32.0 - 25.0 )\n####7",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 32.0 - 25.0 )",
+    "answer": "7"
+  },
+  {
+    "query": "Julia played tag with 15 kids on monday, 18 kids on tuesday and 97 kids on wednesday. How many kids did she play with on monday and tuesday?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 15.0 + 18.0 )\n####33",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 15.0 + 18.0 )",
+    "answer": "33"
+  },
+  {
+    "query": "In Haley's class some boys love to play marbles. If Haley has 10 marbles and she gave 5 marbles to each boy How many boys did she give the marbles to?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 10.0 / 5.0 )\n####2",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 10.0 / 5.0 )",
+    "answer": "2"
+  },
+  {
+    "query": "After resting they decided to go for a swim. If the depth of the water is 10 times Dean's height and he stands at 9 feet How much deeper is the water than Dean's height?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 10.0 * 9.0 ) - 9.0 )\n####81",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 10.0 * 9.0 ) - 9.0 )",
+    "answer": "81"
+  },
+  {
+    "query": "A book has 3 chapters. The first chapter is 91 pages long the second chapter is 23 pages long and the third chapter is 25 pages long. How many more pages does the first chapter have than the second chapter?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 91.0 - 23.0 )\n####68",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 91.0 - 23.0 )",
+    "answer": "68"
+  },
+  {
+    "query": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 317 visitors came to the Buckingham palace that day. If there were 295 visitors the previous day How many more visitors visited the Buckingham palace on that day than on the previous day?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 317.0 - 295.0 )\n####22",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 317.0 - 295.0 )",
+    "answer": "22"
+  },
+  {
+    "query": "The Razorback t-shirt shop made $ 51 dollars from selling 3 t-shirt during the Arkansas and Texas tech game they. What is the cost of each t-shirt?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 51.0 / 3.0 )\n####17",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 51.0 / 3.0 )",
+    "answer": "17"
+  },
+  {
+    "query": "Jack received 3 emails in the morning, 4 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the morning and evening?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 3.0 + 8.0 )\n####11",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 3.0 + 8.0 )",
+    "answer": "11"
+  },
+  {
+    "query": "Lawrence county has 313473 kids. During summer break 274865 kids stay home and the rest go to camp. How many kids go to the camp during the break?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 313473.0 - 274865.0 )\n####38608",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 313473.0 - 274865.0 )",
+    "answer": "38608"
+  },
+  {
+    "query": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 35 inches. The grasshopper jumped 4 inches farther than the frog. How much did they jump altogether?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 35.0 + ( 35.0 - 4.0 ) )\n####66",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 35.0 + ( 35.0 - 4.0 ) )",
+    "answer": "66"
+  },
+  {
+    "query": "Winter is almost here and most animals are migrating to warmer countries. There are 3 bird families living near the mountain. 26 new bird families came to live near the mountain from the arctic while 2 bird families flew away further south for winter. How many bird families were left near the mountain?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 3.0 - 2.0 ) + 26.0 )\n####27",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 3.0 - 2.0 ) + 26.0 )",
+    "answer": "27"
+  },
+  {
+    "query": "Adam could fit 8 action figures and 10 cabinets on each shelf in his room. His room has 4 shelves. How many total items could his shelves hold?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( ( 8.0 + 10.0 ) * 4.0 )\n####72",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( ( 8.0 + 10.0 ) * 4.0 )",
+    "answer": "72"
+  },
+  {
+    "query": "Robin's hair was 16 inches long. He cut off 11 inches. Then it again grew by 12 inches. How long is his hair now?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 16.0 - 11.0 ) + 12.0 )\n####17",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 16.0 - 11.0 ) + 12.0 )",
+    "answer": "17"
+  },
+  {
+    "query": "Friends of Katie had 57 games and she had 63 ds games. How many more games does Katie have than her friends?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 63.0 - 57.0 )\n####6",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 63.0 - 57.0 )",
+    "answer": "6"
+  },
+  {
+    "query": "Lucy went to the grocery store. She bought 10 packs of cookie and 4 packs of cake. How many more packs of cookie did she buy over cake?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 10.0 - 4.0 )\n####6",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 10.0 - 4.0 )",
+    "answer": "6"
+  },
+  {
+    "query": "6 red peaches, 90 yellow peaches and 16 green peaches are in the basket. How many red and green peaches are in the basket?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 6.0 + 16.0 )\n####22",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 6.0 + 16.0 )",
+    "answer": "22"
+  },
+  {
+    "query": "Mary is baking a cake. The recipe calls for 10 cups of flour 2 cups of sugar and 80 cups of salt. She already put in 7 cups of flour. How many more cups of flour than cups of sugar does she need to add now?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 10.0 - 7.0 ) - 2.0 )\n####1",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 10.0 - 7.0 ) - 2.0 )",
+    "answer": "1"
+  },
+  {
+    "query": "Paco had 17 cookies. He ate 14 cookies and gave 13 of them to his friend. How many more cookies did he eat than those he gave to his friend?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 14.0 - 13.0 )\n####1",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 14.0 - 13.0 )",
+    "answer": "1"
+  },
+  {
+    "query": "In a school there are 315 girls and 309 boys. There are also 772 teachers How many people are there in that school?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 315.0 + 309.0 ) + 772.0 )\n####1396",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 315.0 + 309.0 ) + 772.0 )",
+    "answer": "1396"
+  },
+  {
+    "query": "There are some baskets of peaches. Each basket has 4 red peaches and 3 green peaches. If there are a total of 7 peaches in all baskets How many baskets of peaches are there?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 7.0 / ( 4.0 + 3.0 ) )\n####1",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 7.0 / ( 4.0 + 3.0 ) )",
+    "answer": "1"
+  },
+  {
+    "query": "Jessie currently weighs 27 kilograms. After she started to go jogging everyday she lost 101 kilograms. How much did she weigh before starting to jog?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 27.0 + 101.0 )\n####128",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 27.0 + 101.0 )",
+    "answer": "128"
+  },
+  {
+    "query": "David did 51 push-ups in gym class today. David did 49 more push-ups than Zachary. How many push-ups did Zachary and David do altogether?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 51.0 + 51.0 ) - 49.0 )\n####53",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 51.0 + 51.0 ) - 49.0 )",
+    "answer": "53"
+  },
+  {
+    "query": "In a school there are 362 boys and 257 girls. 403 more girls joined the school. How many more girls than boys does the school have?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 257.0 + 403.0 ) - 362.0 )\n####298",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 257.0 + 403.0 ) - 362.0 )",
+    "answer": "298"
+  },
+  {
+    "query": "Josh had 22 marbles in his collection. He found 13 marbles ones while he lost 5 marbles. How many marbles does he have now?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 22.0 - 5.0 ) + 13.0 )\n####30",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 22.0 - 5.0 ) + 13.0 )",
+    "answer": "30"
+  },
+  {
+    "query": "After eating a hearty meal they went to see the Buckingham palace. There were 39 paintings in the Buckingham palace. There, Rachel learned that 661 visitors came to the Buckingham palace that day. If there were 600 visitors the previous day How many more visitors visited the Buckingham palace on that day than on the previous day?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 661.0 - 600.0 )\n####61",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 661.0 - 600.0 )",
+    "answer": "61"
+  },
+  {
+    "query": "Nell collects baseball cards. She had 566 cards while Jeff had 234 cards. She gave some of her cards to Jeff and now has 535 cards left. How many cards does Jeff have now?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 234.0 + 566.0 ) - 535.0 )\n####265",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 234.0 + 566.0 ) - 535.0 )",
+    "answer": "265"
+  },
+  {
+    "query": "Randy uses 36 blocks to build a tower. If he had 59 blocks How many blocks are left?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 59.0 - 36.0 )\n####23",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 59.0 - 36.0 )",
+    "answer": "23"
+  },
+  {
+    "query": "At the stop 8 more people got on the train. Initially there were 11 people on the train. How many people are there on the train now?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 11.0 + 8.0 )\n####19",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 11.0 + 8.0 )",
+    "answer": "19"
+  },
+  {
+    "query": "Rachel has 3 apple trees. She picked 8 apples from each of her trees. Now the trees have a total 9 apples still on them. How many apples were there on all trees initially?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 3.0 * 8.0 ) + 9.0 )\n####33",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 3.0 * 8.0 ) + 9.0 )",
+    "answer": "33"
+  },
+  {
+    "query": "43 children were riding on the bus. At the bus stop some children got off the bus. Then there were 21 children left on the bus. How many children got off the bus at the bus stop?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 43.0 - 21.0 )\n####22",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 43.0 - 21.0 )",
+    "answer": "22"
+  },
+  {
+    "query": "5 red peaches and 11 green peaches are in the basket. How many more green peaches than red peaches are in the basket?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 11.0 - 5.0 )\n####6",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 11.0 - 5.0 )",
+    "answer": "6"
+  },
+  {
+    "query": "Nell collects cards. She had 246 baseball cards and 214 Ace cards. She gave some of her cards to Jeff and now has 404 baseball cards and 495 Ace cards left. How many more Ace cards than baseball cards does Nell have?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 495.0 - 404.0 )\n####91",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 495.0 - 404.0 )",
+    "answer": "91"
+  },
+  {
+    "query": "Each pack of dvds costs 76 dollars. If there is a discount of 25 dollars on each pack How much do you have to pay to buy each pack?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 76.0 - 25.0 )\n####51",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 76.0 - 25.0 )",
+    "answer": "51"
+  },
+  {
+    "query": "They decided to hold the party in their backyard. They have 14 chairs for each set of table. If they have 9 sets of tables How many more chairs than tables do they have?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 9.0 * 14.0 ) - 9.0 )\n####117",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 9.0 * 14.0 ) - 9.0 )",
+    "answer": "117"
+  },
+  {
+    "query": "Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 57 g of colors to paint them. He needs 22 g of wax more. If the feathers require a total of 353 g of wax How many grams of wax does he already have?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 353.0 - 22.0 )\n####331",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 353.0 - 22.0 )",
+    "answer": "331"
+  },
+  {
+    "query": "Frank was reading through his favorite book. The book had 2 chapters each with 405 pages. It took frank 664 days to finish the book. How many chapters did he read per day?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 664.0 / 2.0 )\n####332",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 664.0 / 2.0 )",
+    "answer": "332"
+  },
+  {
+    "query": "Jerry had 5 action figures and 2 books on a shelf in his room. Later he added 9 more books to the shelf. How many more books than action figures were on his shelf?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 2.0 + 9.0 ) - 5.0 )\n####6",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 2.0 + 9.0 ) - 5.0 )",
+    "answer": "6"
+  },
+  {
+    "query": "Paul got a box of some crayons for his birthday. By the end of the school year he had either lost or given away 551 of them and only had 177 left. How many crayons did he get for his birthday?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 551.0 + 177.0 )\n####728",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 551.0 + 177.0 )",
+    "answer": "728"
+  },
+  {
+    "query": "Because of the decision Sofia asked the students to suggest specific types of food. If 324 students suggested adding mashed potatoes 374 suggested adding bacon to the menu and 128 suggested adding tomatoes How many students participated in the suggestion of new food items?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 324.0 + 374.0 ) + 128.0 )\n####826",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 324.0 + 374.0 ) + 128.0 )",
+    "answer": "826"
+  },
+  {
+    "query": "A book has 31 chapters. Each chapter is 61 pages long. How many pages does the book have altogether?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 31.0 * 61.0 )\n####1891",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 31.0 * 61.0 )",
+    "answer": "1891"
+  },
+  {
+    "query": "The school is planning a field trip. The school has 67 classrooms. There are 66 students in each classroom in the school. If there are 6 seats on each school bus How many buses are needed to take the trip?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 67.0 * ( 66.0 / 6.0 ) )\n####737",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 67.0 * ( 66.0 / 6.0 ) )",
+    "answer": "737"
+  },
+  {
+    "query": "Bobby ate 33 pieces of candy. Then he ate 4 more. He also ate 14 pieces of chocolate. How many pieces of candy and chocolate did Bobby eat altogether?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 33.0 + 4.0 ) + 14.0 )\n####51",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 33.0 + 4.0 ) + 14.0 )",
+    "answer": "51"
+  },
+  {
+    "query": "Paco had 36 cookies. He gave 14 cookies to his friend and ate 10 cookies. How many cookies did Paco have left?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 36.0 - 10.0 ) - 14.0 )\n####12",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 36.0 - 10.0 ) - 14.0 )",
+    "answer": "12"
+  },
+  {
+    "query": "Paige raised 15 goldfish in the pond but stray cats loved eating them. 5 were eaten. How many goldfish remained?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 15.0 - 5.0 )\n####10",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 15.0 - 5.0 )",
+    "answer": "10"
+  },
+  {
+    "query": "During summer break 61619 kids from Lawrence county stayed home and the rest went to camp. The total number of kids in Lawrence county is 91676. About how many kids in Lawrence county went to camp?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 91676.0 - 61619.0 )\n####30057",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 91676.0 - 61619.0 )",
+    "answer": "30057"
+  },
+  {
+    "query": "2 children were riding on the bus. At the bus stop some more children got on the bus. Then there were 10 children altogether on the bus. How many more children are on the bus now than there were before the bus stop?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 10.0 - 2.0 )\n####8",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 10.0 - 2.0 )",
+    "answer": "8"
+  },
+  {
+    "query": "3 birds were sitting on the fence. 2 more birds and 6 more storks came to join them. How many more storks than birds are sitting on the fence?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 6.0 - ( 3.0 + 2.0 ) )\n####1",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 6.0 - ( 3.0 + 2.0 ) )",
+    "answer": "1"
+  },
+  {
+    "query": "The Ferris wheel in paradise park has 6 seats. Each seat can hold 14 people. If there are 16 people on the wheel right now How many more people can join the wheel?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 6.0 * 14.0 ) - 16.0 )\n####68",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 6.0 * 14.0 ) - 16.0 )",
+    "answer": "68"
+  },
+  {
+    "query": "He then went to see the oranges being harvested. He found out that they harvest 74 sacks per day and discard 71 of them. How many sacks of oranges will they have after 51 days of harvest?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( ( 74.0 - 71.0 ) * 51.0 )\n####153",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( ( 74.0 - 71.0 ) * 51.0 )",
+    "answer": "153"
+  },
+  {
+    "query": "The Razorback shop makes $ 115 dollars off each jersey and $ 25 off each t-shirt. During the Arkansas and Texas tech game they sold 113 t-shirts and 78 jerseys. How much more does a jersey cost than a t-shirt?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 115.0 - 25.0 )\n####90",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 115.0 - 25.0 )",
+    "answer": "90"
+  },
+  {
+    "query": "Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 49 g of colors to paint them. If the feathers require 288 g of wax and right now he just needs 260 g How many grams of wax does he already have?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 288.0 - 260.0 )\n####28",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 288.0 - 260.0 )",
+    "answer": "28"
+  },
+  {
+    "query": "Paul had 21 books. After selling some in a garage sale he bought 42 new ones. If he has 15 books now How many more books did he sell than he bought?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 21.0 - 15.0 )\n####6",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 21.0 - 15.0 )",
+    "answer": "6"
+  },
+  {
+    "query": "Julia played tag with 9 kids on monday, 7 kids on tuesday and 96 kids on wednesday. How many more kids did she play with on monday than on tuesday?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 9.0 - 7.0 )\n####2",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 9.0 - 7.0 )",
+    "answer": "2"
+  },
+  {
+    "query": "There are 65 baskets of peaches. Each basket has 7 red peaches and 3 green peaches. How many peaches are in each basket?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 7.0 + 3.0 )\n####10",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 7.0 + 3.0 )",
+    "answer": "10"
+  },
+  {
+    "query": "You had 14 bags with equal number of cookies. If you had 28 cookies and 86 candies in total How many bags of cookies do you have?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 28.0 / 14.0 )\n####2",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 28.0 / 14.0 )",
+    "answer": "2"
+  },
+  {
+    "query": "Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 14 invitations in it and she bought 6 packs. Then she bought 11 extra invitations. How many friends can she invite?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 14.0 * 6.0 ) + 11.0 )\n####95",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 14.0 * 6.0 ) + 11.0 )",
+    "answer": "95"
+  },
+  {
+    "query": "Baker made 155 cakes. If his friend bought 140 cakes from him How many cakes would baker still have?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 155.0 - 140.0 )\n####15",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 155.0 - 140.0 )",
+    "answer": "15"
+  },
+  {
+    "query": "A grocery store had 22 bottles of regular soda and 61 bottles of diet soda. How many more bottles of diet soda than regular soda did they have?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 61.0 - 22.0 )\n####39",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 61.0 - 22.0 )",
+    "answer": "39"
+  },
+  {
+    "query": "A grocery store had 36 apples, 80 bottles of regular soda and 54 bottles of diet soda. How many more bottles than apple did they have?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 80.0 + 54.0 ) - 36.0 )\n####98",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 80.0 + 54.0 ) - 36.0 )",
+    "answer": "98"
+  },
+  {
+    "query": "Ryan learns english and chinese for 7 days. Every day he spends 4 hours on learning english and 5 hours on learning chinese. How many hours does he spend on learning english and chinese in all?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( ( 4.0 + 5.0 ) * 7.0 )\n####63",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( ( 4.0 + 5.0 ) * 7.0 )",
+    "answer": "63"
+  },
+  {
+    "query": "Debby drinks 6 bottles a day. If she bought a total of 12 water bottles How many days would they last her?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 12.0 / 6.0 )\n####2",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 12.0 / 6.0 )",
+    "answer": "2"
+  },
+  {
+    "query": "David did 44 push-ups in gym class today. David did 9 more push-ups than Zachary. How many push-ups did Zachary do?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 44.0 - 9.0 )\n####35",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 44.0 - 9.0 )",
+    "answer": "35"
+  },
+  {
+    "query": "Mom buys 51 white t - shirts. If white t - shirts can be purchased in packages of 3 How many packages will she have?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 51.0 / 3.0 )\n####17",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 51.0 / 3.0 )",
+    "answer": "17"
+  },
+  {
+    "query": "During summer break 907611 kids from Lawrence county stay home and the other 455682 kids go to camp. About how many kids are in Lawrence county?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 455682.0 + 907611.0 )\n####1363293",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 455682.0 + 907611.0 )",
+    "answer": "1363293"
+  },
+  {
+    "query": "Danny collects bottle caps and wrappers. He found 66 wrappers and 39 bottle caps at the park. Now he has 16 bottle caps and 68 wrappers in his collection. How many wrappers did danny have at first?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 68.0 - 66.0 )\n####2",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 68.0 - 66.0 )",
+    "answer": "2"
+  },
+  {
+    "query": "After Jessie started to go jogging everyday she lost 35 kilograms. She weighed 69 kilograms before beginning jogging. How much does she weigh now?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 69.0 - 35.0 )\n####34",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 69.0 - 35.0 )",
+    "answer": "34"
+  },
+  {
+    "query": "Josh had 20 marbles in his collection. He gave 2 marbles to Jack. How many marbles does Josh have now?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 20.0 - 2.0 )\n####18",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 20.0 - 2.0 )",
+    "answer": "18"
+  },
+  {
+    "query": "Zachary did 15 push-ups in gym class today. David did 39 more push-ups than Zachary. John did 9 push-ups less than David. How many more push-ups did Zachary do than John?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 39.0 - 9.0 )\n####30",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 39.0 - 9.0 )",
+    "answer": "30"
+  },
+  {
+    "query": "Lewis earns $ 368 every week during the 1359 weeks of harvest. If he has to pay $ 388 rent every week How much money does he pay as rent during the harvest season?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 388.0 * 1359.0 )\n####527292",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 388.0 * 1359.0 )",
+    "answer": "527292"
+  },
+  {
+    "query": "Winter is almost here and most animals are migrating to warmer countries. There are 18 bird families living near the mountain. If 38 bird families flew away to africa and 80 bird families flew away to asia How many bird families flew away for the winter?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 38.0 + 80.0 )\n####118",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 38.0 + 80.0 )",
+    "answer": "118"
+  },
+  {
+    "query": "Mary is baking a cake. The recipe calls for 11 cups of sugar 6 cups of flour and 9 cups of salt. She already put in 12 cups of flour. How many more cups of sugar than cups of salt does she need to add now?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 11.0 - 9.0 )\n####2",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 11.0 - 9.0 )",
+    "answer": "2"
+  },
+  {
+    "query": "Jessie weighed 114 kilograms. After she started to go jogging everyday she lost 50 kilograms in the first week and 60 kilograms in the second week. How much does she weigh now?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 114.0 - 50.0 ) - 60.0 )\n####4",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 114.0 - 50.0 ) - 60.0 )",
+    "answer": "4"
+  },
+  {
+    "query": "Jesse's room is 7 feet long. If she needs a carpet of size 14 square feet What is the width of her room?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 14.0 / 7.0 )\n####2",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 14.0 / 7.0 )",
+    "answer": "2"
+  },
+  {
+    "query": "A farmer had 175 tomatoes and 77 potatoes in his garden. If he picked 172 potatoes How many tomatoes and potatoes does he have left?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 175.0 + 77.0 ) - 172.0 )\n####80",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 175.0 + 77.0 ) - 172.0 )",
+    "answer": "80"
+  },
+  {
+    "query": "The Ferris wheel in paradise park has 3 small seats and 7 large seats. Each small seat can hold 16 people and large seat can hold 12 people. How many people can ride the Ferris wheel on large seats?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 7.0 * 12.0 )\n####84",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 7.0 * 12.0 )",
+    "answer": "84"
+  },
+  {
+    "query": "Bobby had 22 pieces of candy. He ate some pieces of candy. Then he ate 5 more. If he still has 8 pieces of candy left How many pieces of candy had he eaten at the start?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 22.0 - 5.0 ) - 8.0 )\n####9",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 22.0 - 5.0 ) - 8.0 )",
+    "answer": "9"
+  },
+  {
+    "query": "There are 2 baskets of peaches. Each basket has 4 red peaches and some more green peaches. If there are a total of 12 peaches in all baskets How many green peaches are in each basket?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 12.0 / 2.0 ) - 4.0 )\n####2",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 12.0 / 2.0 ) - 4.0 )",
+    "answer": "2"
+  },
+  {
+    "query": "Baker made some cakes. He sold 145 of them. If he still has 72 cakes left How many cakes did baker make?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 145.0 + 72.0 )\n####217",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 145.0 + 72.0 )",
+    "answer": "217"
+  },
+  {
+    "query": "David did 40 more push-ups but 17 less crunches than Zachary in gym class today. If Zachary did 34 push-ups and 62 crunches How many crunches did David do?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 62.0 - 17.0 )\n####45",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 62.0 - 17.0 )",
+    "answer": "45"
+  },
+  {
+    "query": "Olivia spent 78 dollars at a supermarket. If she has 33 dollars left with her How much money did she have initially?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 78.0 + 33.0 )\n####111",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 78.0 + 33.0 )",
+    "answer": "111"
+  },
+  {
+    "query": "Bobby ate 17 pieces of candy. Then he ate 15 more. If he initially had 36 pieces of candy How many pieces of candy does he still have left?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 36.0 - ( 17.0 + 15.0 ) )\n####4",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 36.0 - ( 17.0 + 15.0 ) )",
+    "answer": "4"
+  },
+  {
+    "query": "An industrial machine made 13 shirts yesterday and 3 shirts today. It can make 8 shirts a minute. How many minutes did the machine work in all?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( ( 13.0 + 3.0 ) / 8.0 )\n####2",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( ( 13.0 + 3.0 ) / 8.0 )",
+    "answer": "2"
+  },
+  {
+    "query": "They decided to hold the party in their backyard. They have 12 sets of tables and each set has 14 chairs. There are also 6 chairs extra. How many chairs do they have for the guests?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 12.0 * 14.0 ) + 6.0 )\n####174",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 12.0 * 14.0 ) + 6.0 )",
+    "answer": "174"
+  },
+  {
+    "query": "Adam has 10 apples. Jackie has 2 apples. How many more apples does Adam have than Jackie?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 10.0 - 2.0 )\n####8",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 10.0 - 2.0 )",
+    "answer": "8"
+  },
+  {
+    "query": "Jake has 7 fewer peaches than Steven and 9 more peaches than Jill. Steven has 16 peaches. How many peaches does Jake have?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 16.0 - 7.0 )\n####9",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 16.0 - 7.0 )",
+    "answer": "9"
+  },
+  {
+    "query": "Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3. How much money did he spend to buy chocolate than he did to buy candy bar?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 3.0 - 2.0 )\n####1",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 3.0 - 2.0 )",
+    "answer": "1"
+  },
+  {
+    "query": "There are 8 different movies and 21 different books in the ' crazy silly school ' series. If you read 7 of the books and watched 4 of the movies How many more movies do you still have to watch?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 8.0 - 4.0 )\n####4",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 8.0 - 4.0 )",
+    "answer": "4"
+  },
+  {
+    "query": "White t - shirts can be purchased in packages of 13. If mom buys 39 white t - shirts How many packages will she have?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 39.0 / 13.0 )\n####3",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 39.0 / 13.0 )",
+    "answer": "3"
+  },
+  {
+    "query": "Julia played tag with 19 kids on monday. She played tag with 18 kids on tuesday. She spent a total of 38 hours to play tag on both days. How many more kids did she play with on monday than on tuesday?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 19.0 - 18.0 )\n####1",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 19.0 - 18.0 )",
+    "answer": "1"
+  },
+  {
+    "query": "3 birds and 4 storks were sitting on the fence. 6 more storks came to join them. How many birds and storks are sitting on the fence?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 3.0 + 4.0 ) + 6.0 )\n####13",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 3.0 + 4.0 ) + 6.0 )",
+    "answer": "13"
+  },
+  {
+    "query": "He then went to see the oranges being harvested. He found out that they harvest 16 sacks per day and that each sack containes 57 oranges. How many days will it take to harvest 80 sacks of oranges?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 80.0 / 16.0 )\n####5",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 80.0 / 16.0 )",
+    "answer": "5"
+  },
+  {
+    "query": "Adam has 3 more apples than jackie. Adam has 9 apples. How many apples does Jackie have?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 9.0 - 3.0 )\n####6",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 9.0 - 3.0 )",
+    "answer": "6"
+  },
+  {
+    "query": "An industrial machine can make 3 shirts per minute. It made 6 shirts in all. How many minutes was the machine working?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 6.0 / 3.0 )\n####2",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 6.0 / 3.0 )",
+    "answer": "2"
+  },
+  {
+    "query": "Allan brought 5 balloons. If Allan and Jake brought total of 6 balloons to the park How many balloons did Jake bring to the park?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 6.0 - 5.0 )\n####1",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 6.0 - 5.0 )",
+    "answer": "1"
+  },
+  {
+    "query": "After resting they decided to go for a swim. The depth of the water is 9 times Dean's height. If Ron is 15 feet tall and Dean is 6 feet shorter than Ron How deep was the water?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( ( 15.0 - 6.0 ) * 9.0 )\n####81",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( ( 15.0 - 6.0 ) * 9.0 )",
+    "answer": "81"
+  },
+  {
+    "query": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 39 inches. The grasshopper jumped 19 inches farther than the frog and the mouse jumped 12 inches lesser than the frog. How far did the mouse jump?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 39.0 - 19.0 ) - 12.0 )\n####8",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 39.0 - 19.0 ) - 12.0 )",
+    "answer": "8"
+  },
+  {
+    "query": "Tiffany was collecting cans for recycling. On monday she had 3 bags of cans. The next day she found 7 more bags of cans and 44 bags of bottles. How many bags of cans did she have altogether?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 3.0 + 7.0 )\n####10",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 3.0 + 7.0 )",
+    "answer": "10"
+  },
+  {
+    "query": "Jerry had 2 action figures and 10 books on a shelf in his room. Later he added 4 more action figures to the shelf. How many more books than action figures were on his shelf?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 10.0 - ( 2.0 + 4.0 ) )\n####4",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 10.0 - ( 2.0 + 4.0 ) )",
+    "answer": "4"
+  },
+  {
+    "query": "Winter is almost here and most animals are migrating to warmer countries. 86 bird families flew away for the winter from near a mountain. If there were 45 bird families living near the mountain initially How many more bird families flew away for the winter than those that stayed behind?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 86.0 - ( 45.0 - 86.0 ) )\n####127",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 86.0 - ( 45.0 - 86.0 ) )",
+    "answer": "127"
+  },
+  {
+    "query": "There are 11 baskets of peaches. Each basket has 10 red peaches and 18 green peaches. How many peaches are in the baskets altogether?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( ( 10.0 + 18.0 ) * 11.0 )\n####308",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( ( 10.0 + 18.0 ) * 11.0 )",
+    "answer": "308"
+  },
+  {
+    "query": "Adam has 9 apples. Jackie has 10 apples. How many more apples does Jackie have than Adam?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 10.0 - 9.0 )\n####1",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 10.0 - 9.0 )",
+    "answer": "1"
+  },
+  {
+    "query": "The school is planning a field trip. The school has 72 classrooms. There are 3 seats on each school bus. If there are a total of 111 students in the school How many buses are needed to take the trip?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 111.0 / 3.0 )\n####37",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 111.0 / 3.0 )",
+    "answer": "37"
+  },
+  {
+    "query": "Kelly has 80 nintendo games. She found 31 more nintendo games. How many does she need to give away so that she will have 6 games left?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 80.0 + 31.0 ) - 6.0 )\n####105",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 80.0 + 31.0 ) - 6.0 )",
+    "answer": "105"
+  },
+  {
+    "query": "Paco had 40 cookies. He ate 2 of them. Then he bought 37 more cookies How many cookies did Paco have left?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 40.0 - 2.0 ) + 37.0 )\n####75",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 40.0 - 2.0 ) + 37.0 )",
+    "answer": "75"
+  },
+  {
+    "query": "Mary is baking a cake. The recipe calls for 6 cups of sugar and 9 cups of flour. She already put in 2 cups of flour. How many more cups of flour than cups of sugar does she need to add now?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 9.0 - 2.0 ) - 6.0 )\n####1",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 9.0 - 2.0 ) - 6.0 )",
+    "answer": "1"
+  },
+  {
+    "query": "Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser. How many more crayons than erasers did he have left?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 523.0 - 457.0 )\n####66",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 523.0 - 457.0 )",
+    "answer": "66"
+  },
+  {
+    "query": "There are 4 different books and 17 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 7 of the movies How many more movies do you still have to watch?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 17.0 - 7.0 )\n####10",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 17.0 - 7.0 )",
+    "answer": "10"
+  },
+  {
+    "query": "Debby bought some water bottles when they were on sale. She drank 109 bottles a day. If the bottles lasted for 74 days How many bottles had she bought?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 109.0 * 74.0 )\n####8066",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 109.0 * 74.0 )",
+    "answer": "8066"
+  },
+  {
+    "query": "Katie had 62 new games and 80 old games. Her friends had 73 new games and 41 old games. How many old games do they have 3",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 80.0 + 41.0 )\n####121",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 80.0 + 41.0 )",
+    "answer": "121"
+  },
+  {
+    "query": "We ordered 9 pizzas. Each pizza has 10 slices. If there are 2 of us How many slices of pizza does each of us get if distributed equally?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 9.0 * ( 10.0 / 2.0 ) )\n####45",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 9.0 * ( 10.0 / 2.0 ) )",
+    "answer": "45"
+  },
+  {
+    "query": "6 storks and 2 birds were sitting on the fence. 3 more birds came to join them. How many more storks than birds are sitting on the fence?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 6.0 - ( 2.0 + 3.0 ) )\n####1",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 6.0 - ( 2.0 + 3.0 ) )",
+    "answer": "1"
+  },
+  {
+    "query": "During summer break 819058 kids from Lawrence county go to camp and the other 668278 kids stay home. How many more kids spent their summer break at the camp compared to those who stayed home?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 819058.0 - 668278.0 )\n####150780",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 819058.0 - 668278.0 )",
+    "answer": "150780"
+  },
+  {
+    "query": "At the arcade Dave had won 7 tickets. He used some tickets to buy toys. If he still has 2 tickets left How many tickets did Dave use to buy toys?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 7.0 - 2.0 )\n####5",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 7.0 - 2.0 )",
+    "answer": "5"
+  },
+  {
+    "query": "Jerry had some action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If there are a total of 10 action figures on his shelf now How many action figures did he have initially on the shelf?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 10.0 - 7.0 )\n####3",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 10.0 - 7.0 )",
+    "answer": "3"
+  },
+  {
+    "query": "Paul had 71 books. After selling some in a garage sale he bought 38 new ones. If he has 116 books now How many more books did he buy than he sold?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 116.0 - 71.0 )\n####45",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 116.0 - 71.0 )",
+    "answer": "45"
+  },
+  {
+    "query": "Paul got a box of some crayons for his birthday. During the school year he gave 52 crayons to his friends while he lost 535 crayons. If he only had 492 crayons left How many crayons had been lost or given away?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 52.0 + 535.0 )\n####587",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 52.0 + 535.0 )",
+    "answer": "587"
+  },
+  {
+    "query": "Adam could fit 11 action figures on each shelf in his room. His room has 4 shelves and 40 cabinets. How many total action figures could his shelves hold?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 11.0 * 4.0 )\n####44",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 11.0 * 4.0 )",
+    "answer": "44"
+  },
+  {
+    "query": "The ring toss game at the carnival made 144 dollars per day. They were at the carnival for 22 days. How much money did they make?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 144.0 * 22.0 )\n####3168",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 144.0 * 22.0 )",
+    "answer": "3168"
+  },
+  {
+    "query": "Brenda's mother made cookies for 5. She prepared 22 cookies but had to throw away 17 cookies. If each of them had the same number of cookies How many did each of them have?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( ( 22.0 - 17.0 ) / 5.0 )\n####1",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( ( 22.0 - 17.0 ) / 5.0 )",
+    "answer": "1"
+  },
+  {
+    "query": "White t - shirts can be purchased in packages of 53. If mom buys 57 packages of white t - shirts and 34 trousers How many white t - shirts will she have?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 53.0 * 57.0 )\n####3021",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 53.0 * 57.0 )",
+    "answer": "3021"
+  },
+  {
+    "query": "He then went to see the oranges being harvested. He found out that they harvest 5 sacks of ripe oranges and 74 sacks of unripe oranges per day. How many more sacks of unripe oranges than ripe oranges are harvested per day?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 74.0 - 5.0 )\n####69",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 74.0 - 5.0 )",
+    "answer": "69"
+  },
+  {
+    "query": "Julia played tag with 14 kids on monday, 2 kids on tuesday and 8 kids on wednesday. How many more kids did she play with on monday than on wednesday?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 14.0 - 8.0 )\n####6",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 14.0 - 8.0 )",
+    "answer": "6"
+  },
+  {
+    "query": "Paco had 13 cookies. He ate 2 of them. Then he bought 36 more cookies How many more cookies did he buy than those he ate?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 36.0 - 2.0 )\n####34",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 36.0 - 2.0 )",
+    "answer": "34"
+  },
+  {
+    "query": "White t - shirts can be purchased in packages. If mom buys 28 packages which contain 56 white t - shirts in total How many white t - shirts does each package have?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 56.0 / 28.0 )\n####2",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 56.0 / 28.0 )",
+    "answer": "2"
+  },
+  {
+    "query": "The school has 304 grades and each grade has 75 students How many students were there in total?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 304.0 * 75.0 )\n####22800",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 304.0 * 75.0 )",
+    "answer": "22800"
+  },
+  {
+    "query": "He then went to see the oranges being harvested. He found out that they harvest 25 sacks of unripe oranges and 5 sacks of ripe oranges per day. How many sacks of ripe oranges will they have after 73 days of harvest?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 5.0 * 73.0 )\n####365",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 5.0 * 73.0 )",
+    "answer": "365"
+  },
+  {
+    "query": "The Razorback shop makes $ 192 dollars off each t-shirt and $ 34 off each jersey. During the Arkansas and Texas tech game they sold 157 t-shirts and 19 jerseys. How much more does a t-shirt cost than a jersey?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 192.0 - 34.0 )\n####158",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 192.0 - 34.0 )",
+    "answer": "158"
+  },
+  {
+    "query": "Steven has 14 peaches. Jake has 6 fewer peaches than Steven and 3 more peaches than Jill. How many peaches does Jill have?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 14.0 - 6.0 ) - 3.0 )\n####5",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 14.0 - 6.0 ) - 3.0 )",
+    "answer": "5"
+  },
+  {
+    "query": "A waiter had 12 customers. While 15 customers left he got 14 new customers. How many customers does he still have?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( ( 12.0 - 15.0 ) + 14.0 )\n####11",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( ( 12.0 - 15.0 ) + 14.0 )",
+    "answer": "11"
+  },
+  {
+    "query": "Allan brought 2 balloons and Jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park. How many more balloons did Allan have than Jake in the park?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 2.0 + 3.0 ) - 4.0 )\n####1",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 2.0 + 3.0 ) - 4.0 )",
+    "answer": "1"
+  },
+  {
+    "query": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 235 of the pickers that they fill 100 drums of raspberries per day and 221 drums of grapes per day. How many drums of grapes would be filled in 77 days?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 221.0 * 77.0 )\n####17017",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 221.0 * 77.0 )",
+    "answer": "17017"
+  },
+  {
+    "query": "Ed had 6 more marbles than Doug. Doug lost 7 of his marbles at the playground. If Ed had 22 marbles How many marbles does Doug have now?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 22.0 - 6.0 ) - 7.0 )\n####9",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 22.0 - 6.0 ) - 7.0 )",
+    "answer": "9"
+  },
+  {
+    "query": "At the arcade Dave had won 18 tickets. If he used 5 to buy some toys and 11 more to buy some clothes How many tickets did Dave have left?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 18.0 - ( 5.0 + 11.0 ) )\n####2",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 18.0 - ( 5.0 + 11.0 ) )",
+    "answer": "2"
+  },
+  {
+    "query": "Danny has 21 bottle caps in his collection. He found some more bottle caps at the park. If he has 53 bottle caps now How many bottle caps did he find at the park?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 53.0 - 21.0 )\n####32",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 53.0 - 21.0 )",
+    "answer": "32"
+  },
+  {
+    "query": "Paul got a box of 65 crayons for his birthday. During the school year he gave 213 crayons to his friends while he lost 16 crayons. How many crayons had been lost or given away?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 213.0 + 16.0 )\n####229",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 213.0 + 16.0 )",
+    "answer": "229"
+  },
+  {
+    "query": "At the arcade Dave had won 14 tickets and lost 2 tickets. If he used 10 to buy some toys How many tickets did Dave have left?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 14.0 - 2.0 ) - 10.0 )\n####2",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 14.0 - 2.0 ) - 10.0 )",
+    "answer": "2"
+  },
+  {
+    "query": "A grocery store had 72 bottles of regular soda, 32 bottles of diet soda and 78 apples. How many more bottles than apple did they have?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 72.0 + 32.0 ) - 78.0 )\n####26",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 72.0 + 32.0 ) - 78.0 )",
+    "answer": "26"
+  },
+  {
+    "query": "Because of the decision Sofia asked the students to suggest specific types of food. If 269 students suggested adding bacon 330 suggested adding mashed potatoes to the menu and 76 suggested adding tomatoes How many more students suggested mashed potatoes than those that suggested bacon?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 330.0 - 269.0 )\n####61",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 330.0 - 269.0 )",
+    "answer": "61"
+  },
+  {
+    "query": "Because of the decision Sofia asked 310 students to suggest specific types of food. 185 students suggested adding mashed potatoes while others suggested adding bacon to the menu. How many students suggested bacon?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 310.0 - 185.0 )\n####125",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 310.0 - 185.0 )",
+    "answer": "125"
+  },
+  {
+    "query": "Lewis earns $ 403 every week during the 233 weeks of harvest. If he has to pay $ 49 rent every week How much money does he earn during harvest season?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 403.0 * 233.0 )\n####93899",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 403.0 * 233.0 )",
+    "answer": "93899"
+  },
+  {
+    "query": "They decided to hold the party in their backyard. They have some sets of tables, each having the 3 chairs. If there are a total of 9 chairs in the backyard How many sets of tables do they have?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 9.0 / 3.0 )\n####3",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 9.0 / 3.0 )",
+    "answer": "3"
+  },
+  {
+    "query": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 705 visitors came to the Buckingham palace that day. If there were 191 visitors the previous day and 457 visitors the day before that How many more visitors visited the Buckingham palace on that day than on the previous 245 days?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 705.0 - ( 191.0 + 457.0 ) )\n####57",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 705.0 - ( 191.0 + 457.0 ) )",
+    "answer": "57"
+  },
+  {
+    "query": "There are 11 different books and 17 different movies in the ' crazy silly school ' series. If you read 7 of the books and watched 21 of the movies How many more movies than books have you read?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 21.0 - 7.0 )\n####14",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 21.0 - 7.0 )",
+    "answer": "14"
+  },
+  {
+    "query": "For the walls of the house he would use 12 large planks of wood and 10 small planks. If large planks together need 15 pieces of nails to be secured and small planks together need 5 nails. How many nails does John need for the house wall?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 15.0 + 5.0 )\n####20",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 15.0 + 5.0 )",
+    "answer": "20"
+  },
+  {
+    "query": "Matthew gave equal numbers of crackers and cakes to his 28 friends. If he had 13 crackers and 15 cakes initially How many crackers and cakes did each person eat?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( ( 13.0 + 15.0 ) / 28.0 )\n####1",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( ( 13.0 + 15.0 ) / 28.0 )",
+    "answer": "1"
+  },
+  {
+    "query": "Winter is almost here and most animals are migrating to warmer countries. 27 bird families flew away for the winter from near a mountain. If there were 41 bird families living near the mountain initially How many bird families were left near the mountain?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 41.0 - 27.0 )\n####14",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 41.0 - 27.0 )",
+    "answer": "14"
+  },
+  {
+    "query": "Rebecca wants to split a collection of eggs into groups of 20. Rebecca has 5 marbles and 12 eggs. How many more eggs does Rebecca have than marbles?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 12.0 - 5.0 )\n####7",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 12.0 - 5.0 )",
+    "answer": "7"
+  },
+  {
+    "query": "A mailman has to give 32 pieces of junk mail to each of the 55 blocks. If he gives 8 mails to each house in a block How many houses are there in a block?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 32.0 / 8.0 )\n####4",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 32.0 / 8.0 )",
+    "answer": "4"
+  },
+  {
+    "query": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 92 visitors came to the Buckingham palace that day. If there were 419 visitors the previous day and 103 visitors the day before that How many visited the Buckingham palace before that day?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 419.0 + 103.0 )\n####522",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 419.0 + 103.0 )",
+    "answer": "522"
+  },
+  {
+    "query": "Danny collects bottle caps and wrappers. He found 65 wrappers and 5 bottle caps at the park. Now he has 31 bottle caps and 9 wrappers in his collection. How many more wrappers than bottle caps did danny find at the park?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 65.0 - 5.0 )\n####60",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 65.0 - 5.0 )",
+    "answer": "60"
+  },
+  {
+    "query": "The Razorback t-shirt shop makes $ 87 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 95 t-shirts. If they sold 47 t-shirts during the Arkansas game How much money did they make from selling the t-shirts?",
+    "full_answer": "The question is in type of Multiplication and we solve it by calculating ( 87.0 * 95.0 )\n####8265",
+    "reasoning": "The question is in type of Multiplication and we solve it by calculating ( 87.0 * 95.0 )",
+    "answer": "8265"
+  },
+  {
+    "query": "Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies. How many more cookies did he eat than those he gave to his friend?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 18.0 - 9.0 )\n####9",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 18.0 - 9.0 )",
+    "answer": "9"
+  },
+  {
+    "query": "In a school there are 402 more girls than boys. If there are 739 girls How many boys are there in that school?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 739.0 - 402.0 )\n####337",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 739.0 - 402.0 )",
+    "answer": "337"
+  },
+  {
+    "query": "Because of the decision Sofia asked the students to suggest specific types of food. 182 students suggested adding mashed potatoes while others suggested adding bacon to the menu. If 166 more students suggested adding bacon than those that suggested mashed potatoes How many students suggested bacon?",
+    "full_answer": "The question is in type of Addition and we solve it by calculating ( 182.0 + 166.0 )\n####348",
+    "reasoning": "The question is in type of Addition and we solve it by calculating ( 182.0 + 166.0 )",
+    "answer": "348"
+  },
+  {
+    "query": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 9 inches. The mouse jumped 3 inches lesser than the frog who jumped 33 inches farther than the grasshopper. How far did the mouse jump?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( ( 9.0 + 33.0 ) - 3.0 )\n####39",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( ( 9.0 + 33.0 ) - 3.0 )",
+    "answer": "39"
+  },
+  {
+    "query": "Ed had 30 more marbles than Doug. Ed lost 21 of his marbles at the playground. If Ed had 91 marbles How many more marbles did Ed have than Doug then?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 30.0 - 21.0 )\n####9",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 30.0 - 21.0 )",
+    "answer": "9"
+  },
+  {
+    "query": "Danny collects bottle caps. He found 30 bottle caps at the park while he threw away 63 old ones. Now he has 42 bottle caps in his collection. How many more bottle caps did danny throw away than those he found at the park?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 63.0 - 30.0 )\n####33",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 63.0 - 30.0 )",
+    "answer": "33"
+  },
+  {
+    "query": "There are 384 oranges and 192 bananas in Philip's collection. If the bananas are organized into 345 groups and oranges are organized into 16 groups How big is each group of oranges?",
+    "full_answer": "The question is in type of Common-Division and we solve it by calculating ( 384.0 / 16.0 )\n####24",
+    "reasoning": "The question is in type of Common-Division and we solve it by calculating ( 384.0 / 16.0 )",
+    "answer": "24"
+  },
+  {
+    "query": "Paul got a box of 253 crayons for his birthday. By the end of the school year he had either lost or given away 70 of them. How many crayons did he have left by the end of the school year?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 253.0 - 70.0 )\n####183",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 253.0 - 70.0 )",
+    "answer": "183"
+  },
+  {
+    "query": "Josh had 15 marbles in his collection. He found 9 marbles while he lost 23 marbles. How many more marbles did he lose than those he found?",
+    "full_answer": "The question is in type of Subtraction and we solve it by calculating ( 23.0 - 9.0 )\n####14",
+    "reasoning": "The question is in type of Subtraction and we solve it by calculating ( 23.0 - 9.0 )",
+    "answer": "14"
+  }
+]
