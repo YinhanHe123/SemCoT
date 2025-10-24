@@ -1,0 +1,4 @@
+transformers==4.57.0
+peft==0.17.1 
+datasets==4.0.0
+tensorboardX==2.6.2.2
