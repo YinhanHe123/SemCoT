@@ -3,6 +3,7 @@
 Official PyTorch implementation of the NeurIPS 2025 paper: "SemCoT: Accelerating Chain-of-Thought Reasoning through Semantically-Aligned Implicit Tokens"
 
 [View Paper (PDF)](https://github.com/YinhanHe123/SemCoT)
+<img width="840" height="491" alt="Screenshot 2025-10-25 at 9 21 17 AM" src="https://github.com/user-attachments/assets/e7209cc2-e0c9-48a1-964a-933ead85d9f8" />
 
 ## Overview
 
