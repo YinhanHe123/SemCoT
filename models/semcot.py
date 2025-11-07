@@ -6,7 +6,7 @@ from transformers import AutoModel, AutoModelForCausalLM, AutoTokenizer
 import copy
 import os
 from utils.utils import clear_cache_in_dict
-
+from huggingface_hub import PyTorchModelHubMixin
 
 class CustomST(nn.Module):
     def __init__(
@@ -131,7 +131,7 @@ class CustomST(nn.Module):
 
 class ContempGen(nn.Module):
     def __init__(
-        self, model_name, teacher_hid_dim, variation, r, lora_alpha, lora_dropout
+        self, model_name, teacher_hid_dim, variation, r, lora_alpha, lora_dropout, contemp_gen_name=None
     ):
         super().__init__()
         self.model_name = model_name
@@ -148,7 +148,7 @@ class ContempGen(nn.Module):
         }
         num_added = self.tokenizer.add_special_tokens(special_tokens)
         # Resize token embeddings if new tokens were added
-        
+
         self.thought_token_id = torch.tensor(
             [[self.tokenizer.convert_tokens_to_ids(self.thought_token)]]
         )
@@ -182,19 +182,23 @@ class ContempGen(nn.Module):
             # No projection needed as we're already using the teacher dimensions
             self.projection_layer = nn.Identity()
         else:
-            self.model = AutoModel.from_pretrained(model_name)
-            if num_added > 0:
-                self.model.resize_token_embeddings(len(self.tokenizer))
-            self.projection_layer = nn.Linear(
-                self.model.config.hidden_size, teacher_hid_dim
-            )
+            if contemp_gen_name is not None:
+                self.model = SemoCoT.from_pretrained(contemp_gen_name)
+                self.projection_layer = self.model.projection_layer
+            else:
+                self.model = AutoModel.from_pretrained(model_name)
+                if num_added > 0:
+                    self.model.resize_token_embeddings(len(self.tokenizer))
+                self.projection_layer = nn.Linear(
+                    self.model.config.hidden_size, teacher_hid_dim
+                )
             self.model.embed_tokens.weight.requires_grad = True
             self.model.embed_tokens.weight.register_hook(
                 freeze_old_weights_hook
             )
         if hasattr(self.model, "enable_input_require_grads"):
             self.model.enable_input_require_grads()
-        
+
     def forward(self, input_ids, attention_mask=None):
         device = input_ids.device
         batch_size, seq_length = input_ids.shape
@@ -253,3 +257,36 @@ class ContempGen(nn.Module):
 
         # Save model weights
         torch.save(self.state_dict(), os.path.join(path, "model.pt"))
+
+class SemCoT(
+    nn.Module,
+    PyTorchModelHubMixin,
+    pipeline_tag="text-generation",
+):
+    def __init__(self, model_name, teacher_hid_dim):
+        super().__init__()
+        self.model = AutoModel.from_pretrained(model_name)
+        self.model.resize_token_embeddings(self.model.embed_tokens.num_embeddings + 1)
+        self.projection_layer = nn.Linear(self.model.config.hidden_size, teacher_hid_dim)
+
+    def forward(self, input_ids, attention_mask=None):
+        device = input_ids.device
+        batch_size, seq_length = input_ids.shape
+        if len(input_ids.shape) == 3:
+            batch_size, seq_length, _ = input_ids.shape
+
+        if attention_mask is None:
+            attention_mask = torch.ones((batch_size, seq_length)).to(device)
+
+        # Generate model hidden states
+        outputs = self.model(
+            input_ids=input_ids,
+            attention_mask=attention_mask,
+            output_hidden_states=True,
+        )
+        # Project to teacher model hidden dimension
+        projected_states = self.projection_layer(outputs.hidden_states[-1])
+        clear_cache_in_dict(outputs)
+        del outputs, attention_mask
+        gc.collect()
+        return projected_states

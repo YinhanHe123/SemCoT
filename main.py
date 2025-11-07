@@ -268,6 +268,12 @@ def parse_args():
         default=0.1,
         help="Dropout probability for LoRA layers",
     )
+    parser.add_argument(
+        "--contemp_gen_name",
+        type=str,
+        default=None,
+        help="ContempGen pretrained model name",
+    )
     return parser.parse_args()
 
 
@@ -303,58 +309,71 @@ def main(args):
     )
     logger.log_hyperparams(args.__dict__)
 
-    for i in range(args.num_exps):
-        args.model_save_path = os.path.join(args.base_path, f"saved_model_exp={i}")
-        os.makedirs(args.model_save_path, exist_ok=True)
-        if args.mode == "semcot":
-            load_reasoning_hidden(
-                train_data,
-                args.teacher_model_name,
-                args.device,
-                args.max_seq_len,
-            )
-            load_reasoning_hidden(
-                eval_data,
-                args.teacher_model_name,
-                args.device,
-                args.max_seq_len,
-            )
+    if args.contemp_gen_name is None:
+        for i in range(args.num_exps):
+            args.model_save_path = os.path.join(args.base_path, f"saved_model_exp={i}")
+            os.makedirs(args.model_save_path, exist_ok=True)
+            if args.mode == "semcot":
+                load_reasoning_hidden(
+                    train_data,
+                    args.teacher_model_name,
+                    args.device,
+                    args.max_seq_len,
+                )
+                load_reasoning_hidden(
+                    eval_data,
+                    args.teacher_model_name,
+                    args.device,
+                    args.max_seq_len,
+                )
 
-            custom_st = None
-            if args.variation != "no_sentence_transformer":
-                st_model_path = train_custom_st(train_data, args, logger)
-                custom_st = CustomST.from_pretrained(st_model_path).to(args.device)
-                custom_st.eval()
-                for param in custom_st.parameters():
-                    param.requires_grad = False
-                del param
-                update_reasoning_hidden(train_data, args.device, custom_st)
-                update_reasoning_hidden(eval_data, args.device, custom_st)
+                custom_st = None
+                if args.variation != "no_sentence_transformer":
+                    st_model_path = train_custom_st(train_data, args, logger)
+                    custom_st = CustomST.from_pretrained(st_model_path).to(args.device)
+                    custom_st.eval()
+                    for param in custom_st.parameters():
+                        param.requires_grad = False
+                    del param
+                    update_reasoning_hidden(train_data, args.device, custom_st)
+                    update_reasoning_hidden(eval_data, args.device, custom_st)
 
-            # Train the contemplation generator
-            cg_model_path = train_contemp_gen(
-                custom_st, train_data, eval_data, logger, args
-            )
-            contemp_gen = ContempGen.from_pretrained(cg_model_path).to(args.device)
-            metrics = run_semcot_inference(logger, contemp_gen, eval_data, args)
-            # Evaluate results
-            for metric in metrics:
-                metric["exp_num"] = i
-                utils.append_to_jsonl_file(f"{args.result_path}/eval_res.jsonl", metric)
-            if custom_st is not None:
-                custom_st = custom_st.cpu()
-            contemp_gen = contemp_gen.cpu()
-            del contemp_gen, custom_st
-            gc.collect()
-            torch.cuda.empty_cache()
-        elif args.mode == "baseline":
-            # Run baseline method
-            metrics = run_baseline(logger, args, train_data, eval_data)
-            # Evaluate results
-            for metric in metrics:
-                metric["exp_num"] = i
-                utils.append_to_jsonl_file(f"{args.result_path}/eval_res.jsonl", metric)
-
+                # Train the contemplation generator
+                cg_model_path = train_contemp_gen(
+                    custom_st, train_data, eval_data, logger, args
+                )
+                contemp_gen = ContempGen.from_pretrained(cg_model_path).to(args.device)
+                metrics = run_semcot_inference(logger, contemp_gen, eval_data, args)
+                # Evaluate results
+                for metric in metrics:
+                    metric["exp_num"] = i
+                    utils.append_to_jsonl_file(f"{args.result_path}/eval_res.jsonl", metric)
+                if custom_st is not None:
+                    custom_st = custom_st.cpu()
+                contemp_gen = contemp_gen.cpu()
+                del contemp_gen, custom_st
+                gc.collect()
+                torch.cuda.empty_cache()
+            elif args.mode == "baseline":
+                # Run baseline method
+                metrics = run_baseline(logger, args, train_data, eval_data)
+                # Evaluate results
+                for metric in metrics:
+                    metric["exp_num"] = i
+                    utils.append_to_jsonl_file(f"{args.result_path}/eval_res.jsonl", metric)
+    else:
+        contemp_gen = ContempGen(
+            args.student_model_name,
+            args.teacher_hid_dim,
+            args.variation,
+            args.lora_rank,
+            args.lora_alpha,
+            args.lora_dropout,
+            contemp_gen_name=args.contemp_gen_name,
+        ).to(args.device)
+        metrics = run_semcot_inference(logger, contemp_gen, eval_data, args)
+        for metric in metrics:
+            utils.append_to_jsonl_file(f"{args.result_path}/eval_res.jsonl", metric)
 
 if __name__ == "__main__":
     args = parse_args()
